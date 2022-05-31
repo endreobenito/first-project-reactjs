@@ -1,0 +1,17 @@
+
+.post-second{
+    background: white;
+    box-shadow: 3px 3px 5px rgb(56, 56, 56);
+    transition: transform 100ms ease-in-out;
+  }
+  .post-second:hover{
+    transform: scale(1.03);
+  }
+  .post-second img{
+    max-width: 100%;
+  }
+  
+  .post-content{
+    padding: 30px;
+  }
+  
