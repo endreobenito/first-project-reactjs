@@ -13,7 +13,7 @@ class App extends Component {
     posts: [],
     allPosts:[],
     page: 0,
-    postsPerPage: 10,
+    postsPerPage: 15,
     searchValue: ''
   };
   
